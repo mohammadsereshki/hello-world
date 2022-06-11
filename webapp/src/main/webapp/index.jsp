@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning by mohammad dostet daram pesare gol e bolbol</h1>
+   <h1> Thankyou, Happy Learning by mohammad gaboli</h1>
 
   
 </form>
