@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning by mohammad kopole dostdashtani  kubernetes o eshghe</h1>
+   <h1> Thankyou, Happy Learning by mohammad kopole dostdashtani  kubernetes o eshghe   khodaya komakam kon</h1>
 
   
 </form>
